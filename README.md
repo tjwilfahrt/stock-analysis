@@ -4,14 +4,9 @@
 
 ### Analysis: In addition to analyzing DQ’s performance, Steve has selected eleven other “green” stocks to include in his investment strategy. We analyzed two relatively large sets of data, “2017” and “2018.” To make for efficient analysis, our refactored macro prompts a user to specify a year to analyze (see string and user InputBox) and to activate an Excel sheet to populate a list of performance data in a legible format. The macro loops through Steve’s preferred stocks, their starting and ending prices, and displays information pertinent to his analysis. The macro also sorts data my Ticker variable, calculates daily trade volumes, and generates a return percentage to help Steve gauge which stocks he should include in his portfolio strategy.
 
-Prompt string
 ![Screen Shot 2021-10-03 at 7 16 25 PM](https://user-images.githubusercontent.com/90878939/135778391-821fa3cb-2ec7-4013-8cd2-98dcdc22102b.png)
 
-
-InputBox
 ![Screen Shot 2021-10-03 at 7 16 10 PM](https://user-images.githubusercontent.com/90878939/135778395-a151990c-8475-4d9a-b95b-89421ea1fc8f.png)
-
-
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/90878939/135778136-9eb98557-4649-48cc-bf6e-ca9535ab3eef.png)
 
